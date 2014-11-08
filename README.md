@@ -1,3 +1,3 @@
-SarahBethD2L.github.io
+Brightspace.github.io
 ======================
-Creating a front page for my user account using the GitHub Page Generator.
+Created a front page for the Brightspace organization account using the GitHub Page Generator.
